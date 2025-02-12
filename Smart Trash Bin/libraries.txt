@@ -1,0 +1,11 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESP32Servo
+NewPing
+LiquidCrystal I2C
+SD
+Chrono
+ESP32Time
+DHT sensor library for ESPx
+SdFat
